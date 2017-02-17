@@ -9,4 +9,4 @@ Bootstrapping is a essential process in Angular. Bootstrapping the application c
 ### [Sample code here](https://plnkr.co/edit/cBWxRPtDiIKZIAv8kSVM?p=preview)
 
 ### Understanding File Structure:
-Let's take these two index.html and config.js in detail later.Now just keep it as it is.
+Let's take these two files index.html and config.js in detail later.Now just keep it as it is.
