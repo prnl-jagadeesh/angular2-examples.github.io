@@ -1,6 +1,6 @@
-# [Start Angular 2 Examples](https://github.com/phpjagadeesh/angular2-examples.github.io) 
+# [Start Angular 2 Examples](https://phpjagadeesh.github.io/angular2-examples.github.io/) 
 
-* [Chapter 1](http://startbootstrap.com/template-overviews/new-age/) is simple 'Hello world' program.
+* [Chapter 1](https://plnkr.co/edit/cBWxRPtDiIKZIAv8kSVM?p=preview) is simple 'Hello Angular2' program.
 
 
 ## You are free to:
