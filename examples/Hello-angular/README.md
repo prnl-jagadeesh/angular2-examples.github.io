@@ -4,7 +4,7 @@ Before Moving to sample application, First we need to understand basic things wh
 
 
 ### Bootstrapping Angular Application
-Bootstrapping is a essential process in Angular. Bootstrapping application certainly has different from Anular 1.X+. But it is where loaded when application comes to life.
+Bootstrapping is a essential process in Angular. Bootstrapping the application certainly has different from Angular 1.X+. But it is where loaded when application comes to life. To Bootstrap the Angular App, we need a root component. So Let's take file structure.
 
 ### [Sample code here](https://plnkr.co/edit/cBWxRPtDiIKZIAv8kSVM?p=preview)
 
