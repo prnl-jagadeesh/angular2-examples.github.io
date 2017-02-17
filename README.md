@@ -5,4 +5,4 @@
 
 ## You are free to:
 
-* [Share] — copy and redistribute the material in any medium or format
+* Share — copy and redistribute the material in any medium or format
